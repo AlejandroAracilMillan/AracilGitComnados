@@ -23,3 +23,8 @@ git add .
 git commit -m "modificando mas respuestas"
 git push -u origin primeras
 touch examen/uno/Alejandro.txt
+git add .
+git commit -m "mas respuestas"
+git push -u origin primeras
+cd examen/dos
+cp ../uno/Alejandro.txt ../tres/
