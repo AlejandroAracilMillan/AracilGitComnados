@@ -28,3 +28,9 @@ git commit -m "mas respuestas"
 git push -u origin primeras
 cd examen/dos
 cp ../uno/Alejandro.txt ../tres/
+git add .
+git commit -m "mas respuestas"
+git checkout main
+git merge primeras
+git add .
+git push -u origin main
