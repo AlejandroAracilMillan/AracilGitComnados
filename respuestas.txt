@@ -22,3 +22,4 @@ cd ..
 git add .
 git commit -m "modificando mas respuestas"
 git push -u origin primeras
+touch examen/uno/Alejandro.txt
