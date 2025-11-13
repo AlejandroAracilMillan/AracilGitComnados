@@ -34,3 +34,5 @@ git checkout main
 git merge primeras
 git add .
 git push -u origin main
+git add .
+git commit -m "modificando readme"
