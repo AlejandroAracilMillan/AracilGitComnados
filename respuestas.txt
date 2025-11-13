@@ -1,0 +1,12 @@
+git init
+git remote add origin https://github.com/AlejandroAracilMillan/AracilGitComnados.git
+git branch -M main
+touch readme.md
+git add .
+git commit -m "añadiendo readme.md"
+git push -u origin main
+git add .
+git commit -m "modificando readme.md"
+touch respuestas.txt
+git add .
+git commit -m "añadiento respuestas.txt"
