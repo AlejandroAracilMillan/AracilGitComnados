@@ -10,3 +10,12 @@ git commit -m "modificando readme.md"
 touch respuestas.txt
 git add .
 git commit -m "añadiento respuestas.txt"
+git add .
+git commit -m "modificando respuestas.txt"
+git push -u origin main
+git branch primeras
+git checkout primeras
+mkdir examen
+cd examen
+mkdir uno dos tres
+cd ..
