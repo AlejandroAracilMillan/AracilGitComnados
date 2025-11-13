@@ -19,3 +19,6 @@ mkdir examen
 cd examen
 mkdir uno dos tres
 cd ..
+git add .
+git commit -m "modificando mas respuestas"
+git push -u origin primeras
